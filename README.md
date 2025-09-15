@@ -1,7 +1,7 @@
 # 高效的Open AI、Midjourney API代理、Claude代理、Suno代理等供应商
 
 
-神马聚合中转API是一个高效的Open AI、Midjourney API代理、Claude代理、Suno代理等供应商
+神马聚合中转API（api.whatai.cc）是一个高效的Open AI、Midjourney API代理、Claude代理、Suno代理等供应商
 我们致力于提供优质的 API 接入服务，让您可以轻松集成先进的AI模型至您的产品和服务。通过 API 综合管理平台，无缝整合OpenAl最尖端的人工智能模型。借助我们可靠且易于使用的API解决方案，升级您的产品与服务。
 
 [![神马聚合中转API_低价gpt_中转api_好用稳定的GPT代理_claude中转api_Midjourney代理_Suno代理_Luma代理](https://pic2.imgdd.cc/item/68c78cabfcdff65483faea2a.jpg "神马聚合中转API_低价gpt_中转api_好用稳定的GPT代理_claude中转api_Midjourney代理_Suno代理_Luma代理")](https://api.whatai.cc)
@@ -50,7 +50,7 @@
 
 
 
-## 网站使用教程
+## 神马聚合中转API（api.whatai.cc）网站使用教程
 
 🔥 均为高速回复渠道非低价普通渠道
 
